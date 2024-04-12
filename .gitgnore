@@ -1,0 +1,17 @@
+microstack.download.crt
+
+samikey-admin.pem
+
+samikey.pem
+
+admin-openrc-ussuri.sh
+
+admin-openrc.sh
+
+.terraform/*
+
+.terraform.lock.hcl
+
+terraform.tfstate
+
+terraform.tfstate.backup
